@@ -1,4 +1,4 @@
-# This is the project to the make the e-puck avoid obstacles by training a single layer neural network from scratch
+# This is a project to make the e-puck avoid obstacles by training a single layer neural network from scratch
 
 
 ![Alt text](Img/sceenshot.png?raw=true "Trainig Screen shot")
